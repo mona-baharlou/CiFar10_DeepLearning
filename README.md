@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification Project
+# CIFAR-10 Image Classification 
 
 This project implements a deep learning model for classifying images from the CIFAR-10 dataset. The goal of this project is to understand and implement the fundamental steps in building and training a deep neural network from scratch, from data preprocessing to model evaluation.
 
