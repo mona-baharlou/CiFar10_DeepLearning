@@ -27,17 +27,26 @@ Throughout this project, I learned and implemented the following key skills and 
       * Identifying and diagnosing the phenomenon of **Overfitting** during training.
       * Implementing regularization techniques like **Dropout** to prevent overfitting and improve the model's generalization ability.
       * Using **Batch Normalization** to stabilize training and reduce the need for precise weight initialization.
+  
+     ![Overfitted](https://github.com/mona-baharlou/CiFar10_DeepLearning/blob/main/overfitting.PNG)
+     ![After Batch Normalization & Dropout](https://github.com/mona-baharlou/CiFar10_DeepLearning/blob/main/ovirfitting_uopdate_pic.PNG)
+    
 
-6.  **Model Compilation**
+7.  **Model Compilation**
 
       * Configuring and compiling the model by selecting an appropriate **Loss Function**, **Optimizer**, and **Metrics** for the classification problem.
 
-7.  **Model Training**
+8.  **Model Training**
 
       * The process of training the model on training and validation data, monitoring training progress at each **Epoch**.
 
-8.  **Displaying and Evaluating Model Performance**
+9.  **Displaying and Evaluating Model Performance**
 
       * **Graphical Performance Display:** Plotting Loss and Accuracy graphs over epochs to visualize the training trend and detect overfitting.
       * **Confusion Matrix:** Generating and analyzing a **Confusion Matrix** to accurately assess the model's performance in classifying each category and identify systematic errors.
       * **Qualitative Evaluation:** Visually inspecting samples of images and the model's predictions for a more intuitive understanding of its performance.
+  
+    ![After Batch Normalization & Dropout](https://github.com/mona-baharlou/CiFar10_DeepLearning/blob/main/matrix.png)
+
+
+    ![After Batch Normalization & Dropout](https://github.com/mona-baharlou/CiFar10_DeepLearning/blob/main/qual.png)
